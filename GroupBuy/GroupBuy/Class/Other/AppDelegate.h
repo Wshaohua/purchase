@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  美团团购
+//  GroupBuy
 //
-//  Created by 尚承教育 on 15/7/16.
-//  Copyright (c) 2015年 魔力包. All rights reserved.
+//  Created by ShaoHua on 15/7/16.
+//  Copyright (c) 2015年 ShaoHua. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

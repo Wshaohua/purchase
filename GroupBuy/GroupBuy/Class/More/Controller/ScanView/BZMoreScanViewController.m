@@ -1,9 +1,9 @@
 //
 //  BZMoreSetScanUserCramerViewController.m
-//  美团团购
+//  GroupBuy
 //
-//  Created by 尚承教育 on 15/7/31.
-//  Copyright (c) 2015年 魔力包. All rights reserved.
+//  Created by ShaoHua on 15/7/30.
+//  Copyright (c) 2015年 ShaoHua. All rights reserved.
 //
 
 #import "BZMoreScanViewController.h"
